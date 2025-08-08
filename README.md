@@ -1,7 +1,7 @@
 # Hello World!, I'm Rishabh
 
 # 💫 About Me:
-🚀 Worked on: AI-powered compliance automation & AI Learning Health Engine.   <br>🌱 Currently learning: Elixir (Phoenix) & 2D/3D imaging for medical AI.  <br>⚡ Fun fact: Built a CNN from scratch in Java! 
+🚀 Worked on: AI-powered compliance automation & AI Learning Health Engine.   <br>🌱 Currently learning: Elixir (Phoenix).  <br>⚡ Fun fact: Built a CNN from scratch in Java! 
 
 
 ## 🌐 Socials:

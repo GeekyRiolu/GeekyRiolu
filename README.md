@@ -1,4 +1,4 @@
-# Hello World!, I'm Rishabh !!
+# Hello World!, I'm Rishabh !
 
 # 💫 About Me:
 🚀 Worked on: AI-powered compliance automation & AI Learning Health Engine.   <br>🌱 Currently learning: Elixir (Phoenix).  <br>⚡ Fun fact: Built a CNN from scratch in Java! 

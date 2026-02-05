@@ -2,15 +2,15 @@
 I'm [**Rishabh Sharma**](https://portfolio-rishabh-phi.vercel.app/), an AI/ML engineer and full-stack developer based in Bengaluru. I build intelligent systems that solve real-world problems.
 
 **Currently focused on:**
-- Generative AI & LLMs (RAG, LangChain, LLMOps)
-- Full-stack development (MERN, Svelte, Phoenix)
+- Intraday Stock Trading System with LLM-powered agents and predictive models
+- Multi-agent systems for autonomous decision-making
 - Deep Learning & Neural Networks (PyTorch)
 
 ---
 
 **Some stuff I have built:**
 
-- [**BlackOut — Free Speech Tracker**](https://github.com/GeekyRiolu/BlackOut) - 🏆 Hackathon Winner: Data-first web app documenting censorship incidents across India with geographic visualizations and searchable archives. Built during SFLC.in Hackathon.
+- [**BlackOut Free Speech Tracker**](https://github.com/GeekyRiolu/BlackOut) - 🏆 Hackathon Winner: Data-first web app documenting censorship incidents across India with geographic visualizations and searchable archives. Built during SFLC.in Hackathon.
 
 - [**GeneHack AMR**](https://github.com/GeekyRiolu/GeneHackAMR) - 🏆 Hackathon Winner: Interactive platform for detecting antimicrobial resistance genes using NCBI BLAST and AI-powered antibiotic recommendations. Helps researchers fight antibiotic resistance.
 

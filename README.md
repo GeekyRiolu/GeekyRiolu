@@ -1,7 +1,7 @@
 ### Hi there! 👋
 I'm [**Rishabh Sharma**](https://portfolio-rishabh-phi.vercel.app/), an AI/ML engineer and full-stack developer based in Bengaluru. I build intelligent systems that solve real-world problems.
 
-**Currently focused on:**
+**These days I'm focused on:**
 - Intraday Stock Trading System with LLM-powered agents and predictive models
 - Multi-agent systems for autonomous decision-making
 - Deep Learning & Neural Networks (PyTorch)

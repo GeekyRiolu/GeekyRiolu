@@ -1,14 +1,31 @@
-# Hello World!, I'm Rishabh !
+### Hi there! 👋
+I'm [**Rishabh Sharma**](https://portfolio-rishabh-phi.vercel.app/), an AI/ML engineer and full-stack developer based in Bengaluru. I build intelligent systems that solve real-world problems.
 
-# 💫 About Me:
-🚀 Worked on: AI-powered compliance automation & AI Learning Health Engine.   <br>🌱 Currently learning: Elixir (Phoenix).  <br>⚡ Fun fact: Built a CNN from scratch in Java! 
+**Currently focused on:**
+- Generative AI & LLMs (RAG, LangChain, LLMOps)
+- Full-stack development (MERN, Svelte, Phoenix)
+- Deep Learning & Neural Networks (PyTorch)
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishabh-sharma-4b735b283/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishu4.2004@gmail.com) 
+**Some stuff I have built:**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- [**BlackOut — Free Speech Tracker**](https://github.com/GeekyRiolu/BlackOut) - 🏆 Hackathon Winner: Data-first web app documenting censorship incidents across India with geographic visualizations and searchable archives. Built during SFLC.in Hackathon.
+
+- [**GeneHack AMR**](https://github.com/GeekyRiolu/GeneHackAMR) - 🏆 Hackathon Winner: Interactive platform for detecting antimicrobial resistance genes using NCBI BLAST and AI-powered antibiotic recommendations. Helps researchers fight antibiotic resistance.
+
+- [**Multi-Modal RAG System**](https://github.com/GeekyRiolu/MultiModal-RAG) - Production-grade RAG pipeline for complex documents with text, tables, charts, and scanned images. Features FAISS retrieval, Gemini-powered QA, and hallucination-safe responses.
+
+- [**CNN from Scratch in Java**](https://github.com/GeekyRiolu/CNN_Java) - Full-fledged Convolutional Neural Network library built without external ML frameworks. Multi-threaded optimization achieving 3x faster execution than naive Python implementations. 96.5% accuracy on MNIST.
+
+---
+
+**Achievements:**
+* 🏆 Winner @ Docathon Cellverse
+* 🏆 Winner @ SFLC.in
+* 🥈 Runner-Up @ Ambition23 Coding Hackathon
+* 🏅 Top 5 @ Zenathon Oraczen AI
+* 🏅 Top 5 @ HaXplore IIT-BHU
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekyRiolu/GeekyRiolu/output/github-snake-dark.svg" />

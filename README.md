@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
-I'm [**Rishabh Sharma**](https://portfolio-rishabh-phi.vercel.app/), an AI/ML engineer and full-stack developer based in Bengaluru. I love building intelligent systems that solve real-world problems.
+I'm [**Rishabh Sharma**](https://rishabh-portfolio-delta.vercel.app/), an AI/ML engineer and full-stack developer based in Bengaluru. I love building intelligent systems that solve real-world problems.
 
 **These days I'm focused on:**
 - Intraday Stock Trading System with LLM-powered agents and predictive models

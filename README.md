@@ -3,7 +3,7 @@ I'm [**Rishabh Sharma**](https://rishabh-portfolio-delta.vercel.app/)
 
 • AI dev @Siemens.
 
-• building [GAIIN](gaiin.app)
+• building [GAIIN](https://gaiin.app)
 
 ---
 
